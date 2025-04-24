@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Panque</h1>
 <h3 align="center">LOREM IPSUM</h3>
 <table align="right">
- <tr><td><a href="README.md"><img src="images/usa.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/mx.png" height="13"> Spanish</a></td></tr>
+ <tr><td><a href="README.md"><img src="https://github.com/Pxnque/Pxnque/blob/main/images/usa.svg" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="https://github.com/Pxnque/Pxnque/blob/main/images/mxn.svg" height="13"> Spanish</a></td></tr>
 </table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxnque&label=Profile%20views&color=0e75b6&style=flat" alt="pxnque" /> </p>
 
