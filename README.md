@@ -6,9 +6,14 @@
  <tr><td><a href="README_fr.md"><img src="https://github.com/Pxnque/Pxnque/blob/main/images/esp.svg" height="13"> Spanish</a></td></tr>
 </table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxnque&label=Profile%20views&color=0e75b6&style=flat" alt="pxnque" /> </p>
-<p>I'm a software Engineer Student who focuses on web app solutions</p>
-> [!NOTE]
+
+
+> [!About me]
+> I'm a software Engineer Student who focuses on web app solutions
 > I'm from <img src="https://github.com/Pxnque/Pxnque/blob/main/images/mx.svg" height="13"/> México and I like to solve problems
+>
+> 
+
 
 |**Programming Languages**|**Databases**|**Tools**|**Frameworks**|
 |---|---|---|---|
@@ -16,6 +21,6 @@
 
 
 
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxnque&show_icons=true&locale=en&layout=compact" alt="pxnque" /></p>
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxnque&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="pxnque" /></p>
 
 
