@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxnque&label=Profile%20views&color=0e75b6&style=flat" alt="pxnque" /> </p>
 
 
-> [!About me]
+> [!Note]
 > I'm a software Engineer Student who focuses on web app solutions
 > I'm from <img src="https://github.com/Pxnque/Pxnque/blob/main/images/mx.svg" height="13"/> México and I like to solve problems
 >
